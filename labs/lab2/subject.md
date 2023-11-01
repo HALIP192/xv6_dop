@@ -3,6 +3,8 @@
 Дальнейший Курс лабораторных работ включает в себя - лабораторные работы по ОС
 Xv6 а так же книга о ней, на которую будут ссылаться работарные работы.
 
+### Презентация - [тут]
+
 ## Начальное приготовление, подготовка окружения, репозитория
 
 Для выполнения работы необходимо **обязательно** выполнить следующие действия
@@ -391,4 +393,4 @@ $
 [Git's user manual]: https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html
 [GDB manual]: https://pdos.csail.mit.edu/6.828/2019/lec/gdb_slides.pdf
 [cюда]: https://pdos.csail.mit.edu/6.1810/2023/labs/gdb.html
-
+[тут]: https://docs.google.com/presentation/d/1qIwJu_Lr2r5dTBd8YxDEA7odrmWCRgkz7R3-cfUbWj8/edit?usp=sharing
